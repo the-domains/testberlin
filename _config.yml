@@ -1,6 +1,6 @@
 name: TestBerlin
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.20660728914663196
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: 8a6d05b7-f48e-44cd-8822-3ad4a1ec964a
     url: null
+typography_spectrum: 0.25872315978631377
